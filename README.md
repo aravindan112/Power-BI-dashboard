@@ -1,7 +1,13 @@
-# Power-BI-dashboard
+<img width="1187" height="672" alt="Screenshot 2025-09-16 193333" src="https://github.com/user-attachments/assets/1df95072-1e46-41bf-98bb-f4dc3ae410c9" /># Power-BI-dashboard
 
 This repository contains an interactive E-commerce Sales Dashboard built in Power BI.  
-The dashboard provides insights into sales, profit, category performance, and payment modes to help understand business performance.  
+The dashboard provides insights into sales, profit, category performance, and payment modes to help understand business performance. 
+
+## Dashboard Preview
+Here’s a snapshot of the dashboard:
+
+
+<img width="1187" height="672" alt="Screenshot 2025-09-16 193333" src="https://github.com/user-attachments/assets/51bcbd61-2a61-4e79-960b-c3e7ba3a7373" />
 
 ##  Features
 - KPI Cards for Sales, Profit, and Quantity
