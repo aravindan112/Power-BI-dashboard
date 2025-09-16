@@ -1,5 +1,5 @@
 # Power-BI-dashboard
-This is a simple E-commerce sales Dashboard created using power bi 
+
 This repository contains an interactive E-commerce Sales Dashboard built in Power BI.  
 The dashboard provides insights into sales, profit, category performance, and payment modes to help understand business performance.  
 
