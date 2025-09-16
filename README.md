@@ -13,3 +13,8 @@ The dashboard provides insights into sales, profit, category performance, and pa
 ##  Tools Used
 - Microsoft Power BI
 - Dataset: Sample E-commerce Sales data
+
+- ## 📝 How to Use
+1. Clone or download this repository.  
+2. Open the `.pbix` file in Power BI Desktop.  
+3. Explore and interact with the dashboard.
